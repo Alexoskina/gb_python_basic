@@ -31,7 +31,7 @@ info(name="Иван", surname="Иванов", year="1999", city="Караган�
 
 
 def my_func(x, y):
-    return x ** abs(y)
+    return 1/ x ** abs(y)
     # return x ** y
 
 
